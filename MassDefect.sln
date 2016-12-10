@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MasssDefect.Models", "MasssDefect.Models\MasssDefect.Models.csproj", "{04919ADE-122D-499B-A74D-40FE1228D2CC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MasssDefect.Data", "MasssDefect.Data\MasssDefect.Data.csproj", "{88B201B5-5432-436E-8B5F-0023D6D2854C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MassDefectCodeFirstExportJson", "MassDefectCodeFirst\MassDefectCodeFirstExportJson.csproj", "{B619A41D-AFE0-4685-AF85-B396E030DED1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MassDefect.DTO", "MassDefect.DTO\MassDefect.DTO.csproj", "{C3F1126E-210E-4904-A1A1-B6A9E7788926}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{04919ADE-122D-499B-A74D-40FE1228D2CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04919ADE-122D-499B-A74D-40FE1228D2CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04919ADE-122D-499B-A74D-40FE1228D2CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04919ADE-122D-499B-A74D-40FE1228D2CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{88B201B5-5432-436E-8B5F-0023D6D2854C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88B201B5-5432-436E-8B5F-0023D6D2854C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88B201B5-5432-436E-8B5F-0023D6D2854C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88B201B5-5432-436E-8B5F-0023D6D2854C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B619A41D-AFE0-4685-AF85-B396E030DED1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B619A41D-AFE0-4685-AF85-B396E030DED1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B619A41D-AFE0-4685-AF85-B396E030DED1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B619A41D-AFE0-4685-AF85-B396E030DED1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C3F1126E-210E-4904-A1A1-B6A9E7788926}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3F1126E-210E-4904-A1A1-B6A9E7788926}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3F1126E-210E-4904-A1A1-B6A9E7788926}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3F1126E-210E-4904-A1A1-B6A9E7788926}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

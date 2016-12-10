@@ -1,0 +1,5 @@
+c:\users\tanya\documents\visual studio 2015\Projects\MassDefect\MassDefect.DTO\bin\Debug\MassDefect.DTO.dll
+c:\users\tanya\documents\visual studio 2015\Projects\MassDefect\MassDefect.DTO\bin\Debug\MassDefect.DTO.pdb
+c:\users\tanya\documents\visual studio 2015\Projects\MassDefect\MassDefect.DTO\obj\Debug\MassDefect.DTO.dll
+c:\users\tanya\documents\visual studio 2015\Projects\MassDefect\MassDefect.DTO\obj\Debug\MassDefect.DTO.pdb
+c:\users\tanya\documents\visual studio 2015\Projects\MassDefect\MassDefect.DTO\obj\Debug\MassDefect.DTO.csprojResolveAssemblyReference.cache

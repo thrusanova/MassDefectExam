@@ -1,0 +1,10 @@
+c:\users\tanya\documents\visual studio 2015\Projects\MassDefect\MasssDefect.Models\bin\Debug\MasssDefect.Models.dll.config
+c:\users\tanya\documents\visual studio 2015\Projects\MassDefect\MasssDefect.Models\bin\Debug\MasssDefect.Models.dll
+c:\users\tanya\documents\visual studio 2015\Projects\MassDefect\MasssDefect.Models\bin\Debug\MasssDefect.Models.pdb
+c:\users\tanya\documents\visual studio 2015\Projects\MassDefect\MasssDefect.Models\bin\Debug\EntityFramework.dll
+c:\users\tanya\documents\visual studio 2015\Projects\MassDefect\MasssDefect.Models\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\tanya\documents\visual studio 2015\Projects\MassDefect\MasssDefect.Models\bin\Debug\EntityFramework.xml
+c:\users\tanya\documents\visual studio 2015\Projects\MassDefect\MasssDefect.Models\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\tanya\documents\visual studio 2015\Projects\MassDefect\MasssDefect.Models\obj\Debug\MasssDefect.Models.dll
+c:\users\tanya\documents\visual studio 2015\Projects\MassDefect\MasssDefect.Models\obj\Debug\MasssDefect.Models.pdb
+c:\users\tanya\documents\visual studio 2015\Projects\MassDefect\MasssDefect.Models\obj\Debug\MasssDefect.Models.csprojResolveAssemblyReference.cache

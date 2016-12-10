@@ -1,0 +1,16 @@
+c:\users\tanya\documents\visual studio 2015\Projects\MassDefect\MassDefectExportJson\bin\Debug\MassDefectExportJson.exe.config
+c:\users\tanya\documents\visual studio 2015\Projects\MassDefect\MassDefectExportJson\bin\Debug\MassDefectExportJson.exe
+c:\users\tanya\documents\visual studio 2015\Projects\MassDefect\MassDefectExportJson\bin\Debug\MassDefectExportJson.pdb
+c:\users\tanya\documents\visual studio 2015\Projects\MassDefect\MassDefectExportJson\bin\Debug\EntityFramework.dll
+c:\users\tanya\documents\visual studio 2015\Projects\MassDefect\MassDefectExportJson\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\tanya\documents\visual studio 2015\Projects\MassDefect\MassDefectExportJson\bin\Debug\MasssDefect.Data.dll
+c:\users\tanya\documents\visual studio 2015\Projects\MassDefect\MassDefectExportJson\bin\Debug\MasssDefect.Models.dll
+c:\users\tanya\documents\visual studio 2015\Projects\MassDefect\MassDefectExportJson\bin\Debug\Newtonsoft.Json.dll
+c:\users\tanya\documents\visual studio 2015\Projects\MassDefect\MassDefectExportJson\bin\Debug\MasssDefect.Data.pdb
+c:\users\tanya\documents\visual studio 2015\Projects\MassDefect\MassDefectExportJson\bin\Debug\MasssDefect.Models.pdb
+c:\users\tanya\documents\visual studio 2015\Projects\MassDefect\MassDefectExportJson\bin\Debug\EntityFramework.xml
+c:\users\tanya\documents\visual studio 2015\Projects\MassDefect\MassDefectExportJson\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\tanya\documents\visual studio 2015\Projects\MassDefect\MassDefectExportJson\bin\Debug\Newtonsoft.Json.xml
+c:\users\tanya\documents\visual studio 2015\Projects\MassDefect\MassDefectExportJson\obj\Debug\MassDefectExportJson.csprojResolveAssemblyReference.cache
+c:\users\tanya\documents\visual studio 2015\Projects\MassDefect\MassDefectExportJson\obj\Debug\MassDefectExportJson.exe
+c:\users\tanya\documents\visual studio 2015\Projects\MassDefect\MassDefectExportJson\obj\Debug\MassDefectExportJson.pdb

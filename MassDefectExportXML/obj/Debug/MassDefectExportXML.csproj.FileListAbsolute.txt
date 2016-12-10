@@ -1,0 +1,13 @@
+c:\users\tanya\documents\visual studio 2015\Projects\MassDefect\MassDefectExportXML\bin\Debug\MassDefectExportXML.exe.config
+c:\users\tanya\documents\visual studio 2015\Projects\MassDefect\MassDefectExportXML\bin\Debug\MassDefectExportXML.exe
+c:\users\tanya\documents\visual studio 2015\Projects\MassDefect\MassDefectExportXML\bin\Debug\MassDefectExportXML.pdb
+c:\users\tanya\documents\visual studio 2015\Projects\MassDefect\MassDefectExportXML\bin\Debug\EntityFramework.dll
+c:\users\tanya\documents\visual studio 2015\Projects\MassDefect\MassDefectExportXML\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\tanya\documents\visual studio 2015\Projects\MassDefect\MassDefectExportXML\bin\Debug\MasssDefect.Data.dll
+c:\users\tanya\documents\visual studio 2015\Projects\MassDefect\MassDefectExportXML\bin\Debug\MasssDefect.Models.dll
+c:\users\tanya\documents\visual studio 2015\Projects\MassDefect\MassDefectExportXML\bin\Debug\MasssDefect.Data.pdb
+c:\users\tanya\documents\visual studio 2015\Projects\MassDefect\MassDefectExportXML\bin\Debug\MasssDefect.Models.pdb
+c:\users\tanya\documents\visual studio 2015\Projects\MassDefect\MassDefectExportXML\bin\Debug\EntityFramework.xml
+c:\users\tanya\documents\visual studio 2015\Projects\MassDefect\MassDefectExportXML\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\tanya\documents\visual studio 2015\Projects\MassDefect\MassDefectExportXML\obj\Debug\MassDefectExportXML.exe
+c:\users\tanya\documents\visual studio 2015\Projects\MassDefect\MassDefectExportXML\obj\Debug\MassDefectExportXML.pdb

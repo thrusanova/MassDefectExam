@@ -18,6 +18,7 @@ namespace MassDefectCodeFirst
         private const string planetPath = "../../../datasets/planets.json";
         private const string anomaliesPath = "../../../datasets/anomalies.json";
         private const string personPath = "../../../datasets/persons.json";
+        private const string AnomalyVictimsPath = "../../../datasets/anomaly-victims.json";
         private static string Error = "Error: Invalid data.";
 
         static void Main(string[] args)
@@ -26,7 +27,59 @@ namespace MassDefectCodeFirst
             //ImportStars();
             //ImportPLanets();
             //   ImportPersons();
-            ImportAnomalies();
+            //ImportAnomalies();
+            ImportAnomalyVictims();
+        }
+
+        private static void ImportAnomalyVictims()
+        {
+            var context = new MassDefectContext();
+            var json = File.ReadAllText(AnomalyVictimsPath);
+            var anomalyVictims = JsonConvert.DeserializeObject<IEnumerable<AnomalyVictimDTO>>(json);
+            foreach (var av in anomalyVictims)
+            {
+                if (av.Id==null || av.Person==null)
+                {
+                    Console.WriteLine(Error);
+                    continue;
+                }
+                var anomEntity = GetAnomalyById(av.Id, context);
+                var personEntity = GetPersonByName(av.Person, context);
+                if (anomEntity==null || personEntity==null)
+                {
+                    Console.WriteLine(Error);
+                    continue;
+                }
+             anomEntity.Victims.Add(personEntity);
+
+            }
+            context.SaveChanges();
+
+        }
+
+        private static Person GetPersonByName(string person, MassDefectContext context)
+        {
+            foreach (var per in context.Persons)
+            {
+                if (per.Name==person)
+                {
+                    return per;
+                }
+            }
+            return null;
+        }
+
+        private static Anomaly GetAnomalyById(int? anomalyId, MassDefectContext context)
+        {
+            foreach (var anomaly in context.Anomalies)
+            {
+                if (anomaly.Id == anomalyId)
+                {
+                    return anomaly;
+                }
+            }
+
+            return null;
         }
 
         private static void ImportAnomalies()

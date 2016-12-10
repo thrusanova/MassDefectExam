@@ -1,0 +1,14 @@
+c:\users\tanya\documents\visual studio 2015\Projects\MassDefect\MassDefectImportXML\bin\Debug\MassDefectImportXML.exe.config
+c:\users\tanya\documents\visual studio 2015\Projects\MassDefect\MassDefectImportXML\bin\Debug\MassDefectImportXML.exe
+c:\users\tanya\documents\visual studio 2015\Projects\MassDefect\MassDefectImportXML\bin\Debug\MassDefectImportXML.pdb
+c:\users\tanya\documents\visual studio 2015\Projects\MassDefect\MassDefectImportXML\bin\Debug\EntityFramework.dll
+c:\users\tanya\documents\visual studio 2015\Projects\MassDefect\MassDefectImportXML\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\tanya\documents\visual studio 2015\Projects\MassDefect\MassDefectImportXML\bin\Debug\MasssDefect.Data.dll
+c:\users\tanya\documents\visual studio 2015\Projects\MassDefect\MassDefectImportXML\bin\Debug\MasssDefect.Models.dll
+c:\users\tanya\documents\visual studio 2015\Projects\MassDefect\MassDefectImportXML\bin\Debug\MasssDefect.Data.pdb
+c:\users\tanya\documents\visual studio 2015\Projects\MassDefect\MassDefectImportXML\bin\Debug\MasssDefect.Models.pdb
+c:\users\tanya\documents\visual studio 2015\Projects\MassDefect\MassDefectImportXML\bin\Debug\EntityFramework.xml
+c:\users\tanya\documents\visual studio 2015\Projects\MassDefect\MassDefectImportXML\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\tanya\documents\visual studio 2015\Projects\MassDefect\MassDefectImportXML\obj\Debug\MassDefectImportXML.csprojResolveAssemblyReference.cache
+c:\users\tanya\documents\visual studio 2015\Projects\MassDefect\MassDefectImportXML\obj\Debug\MassDefectImportXML.exe
+c:\users\tanya\documents\visual studio 2015\Projects\MassDefect\MassDefectImportXML\obj\Debug\MassDefectImportXML.pdb
